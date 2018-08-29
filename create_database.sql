@@ -20,7 +20,7 @@ INSERT INTO Product VALUES
 (5, 'html5', 'Murach''s HTML5 and CSS3', '54.50'),
 (6, 'oracle', 'Murach''s Oracle and PL/SQL', '54.50'),
 (7, 'javascript', 'Murach''s JavaScript and jQuery', '54.50')
-(8, 'Cobol','Murach\'s Cobol For Dummies',59.50);
+
 
 
 -- create a user and grant privileges to that user
