@@ -22,7 +22,6 @@ INSERT INTO Product VALUES
 (7, 'javascript', 'Murach''s JavaScript and jQuery', '54.50');
 
 
-
 -- create a user and grant privileges to that user
 GRANT SELECT, INSERT, DELETE, UPDATE
 ON mma.*
